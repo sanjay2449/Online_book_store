@@ -197,5 +197,5 @@ Run the analysis queries
 
 👨‍💻 Author
 
-Arpit Kuthari
+##SANJAY CHOURASIYA
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
